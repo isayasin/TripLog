@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Sofadi One";
+}
+.navbar {
+  background-color: rgb(118, 153, 64);
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.navbardiv {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  font-weight: 900;
+}
+.btn {
+  font-size: larger;
+  font-weight: 900;
+}
+
+.card {
+  width: 100%;
+}
+
+.cards {
+  margin: 20px;
+  display: flex;
+  align-items: self-start;
+  justify-content: center;
+}
+
+.satir {
+  background-color: antiquewhite;
+  padding: 10px;
+  display: flex;
+}
+
+.card-img-top {
+  width: 300px;
+}

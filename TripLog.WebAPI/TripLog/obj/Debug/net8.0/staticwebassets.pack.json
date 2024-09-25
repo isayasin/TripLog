@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\YBM-Projects\\TripLog\\TripLog.WebAPI\\TripLog\\wwwroot\\133711267484681995.black.png",
+      "PackagePath": "staticwebassets\\133711267484681995.black.png"
+    },
+    {
+      "Id": "C:\\YBM-Projects\\TripLog\\TripLog.WebAPI\\TripLog\\wwwroot\\133711269885430462.black.png",
+      "PackagePath": "staticwebassets\\133711269885430462.black.png"
+    },
+    {
+      "Id": "C:\\YBM-Projects\\TripLog\\TripLog.WebAPI\\TripLog\\wwwroot\\133711272089743812.black.png",
+      "PackagePath": "staticwebassets\\133711272089743812.black.png"
+    },
+    {
+      "Id": "C:\\YBM-Projects\\TripLog\\TripLog.WebAPI\\TripLog\\wwwroot\\133711351439668265.isayasinkuru_5x5foto.jpg",
+      "PackagePath": "staticwebassets\\133711351439668265.isayasinkuru_5x5foto.jpg"
+    },
+    {
+      "Id": "C:\\YBM-Projects\\TripLog\\TripLog.WebAPI\\TripLog\\wwwroot\\133711351460958604.yassssoo.png",
+      "PackagePath": "staticwebassets\\133711351460958604.yassssoo.png"
+    },
+    {
+      "Id": "C:\\YBM-Projects\\TripLog\\TripLog.WebAPI\\TripLog\\wwwroot\\133711351460984714.IMG_8658.JPG",
+      "PackagePath": "staticwebassets\\133711351460984714.IMG_8658.JPG"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TripLog.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TripLog.WebAPI.props",
+      "PackagePath": "build\\TripLog.WebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TripLog.WebAPI.props",
+      "PackagePath": "buildMultiTargeting\\TripLog.WebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TripLog.WebAPI.props",
+      "PackagePath": "buildTransitive\\TripLog.WebAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

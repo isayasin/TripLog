@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\YBM-Projects\\TripLog\\TripLog.WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E8A5FD-4AB0-4374-AA1E-EA9A20F4B861}|TripLog\\TripLog.WebAPI.csproj|c:\\ybm-projects\\triplog\\triplog.webapi\\triplog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E8A5FD-4AB0-4374-AA1E-EA9A20F4B861}|TripLog\\TripLog.WebAPI.csproj|solutionrelative:triplog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E8A5FD-4AB0-4374-AA1E-EA9A20F4B861}|TripLog\\TripLog.WebAPI.csproj|c:\\ybm-projects\\triplog\\triplog.webapi\\triplog\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E8A5FD-4AB0-4374-AA1E-EA9A20F4B861}|TripLog\\TripLog.WebAPI.csproj|solutionrelative:triplog\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E8A5FD-4AB0-4374-AA1E-EA9A20F4B861}|TripLog\\TripLog.WebAPI.csproj|c:\\ybm-projects\\triplog\\triplog.webapi\\triplog\\repository\\triprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E8A5FD-4AB0-4374-AA1E-EA9A20F4B861}|TripLog\\TripLog.WebAPI.csproj|solutionrelative:triplog\\repository\\triprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E8A5FD-4AB0-4374-AA1E-EA9A20F4B861}|TripLog\\TripLog.WebAPI.csproj|c:\\ybm-projects\\triplog\\triplog.webapi\\triplog\\models\\tripphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E8A5FD-4AB0-4374-AA1E-EA9A20F4B861}|TripLog\\TripLog.WebAPI.csproj|solutionrelative:triplog\\models\\tripphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E8A5FD-4AB0-4374-AA1E-EA9A20F4B861}|TripLog\\TripLog.WebAPI.csproj|c:\\ybm-projects\\triplog\\triplog.webapi\\triplog\\models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E8A5FD-4AB0-4374-AA1E-EA9A20F4B861}|TripLog\\TripLog.WebAPI.csproj|solutionrelative:triplog\\models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E8A5FD-4AB0-4374-AA1E-EA9A20F4B861}|TripLog\\TripLog.WebAPI.csproj|c:\\ybm-projects\\triplog\\triplog.webapi\\triplog\\services\\tripservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E8A5FD-4AB0-4374-AA1E-EA9A20F4B861}|TripLog\\TripLog.WebAPI.csproj|solutionrelative:triplog\\services\\tripservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E8A5FD-4AB0-4374-AA1E-EA9A20F4B861}|TripLog\\TripLog.WebAPI.csproj|c:\\ybm-projects\\triplog\\triplog.webapi\\triplog\\controller\\tripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E8A5FD-4AB0-4374-AA1E-EA9A20F4B861}|TripLog\\TripLog.WebAPI.csproj|solutionrelative:triplog\\controller\\tripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E8A5FD-4AB0-4374-AA1E-EA9A20F4B861}|TripLog\\TripLog.WebAPI.csproj|c:\\ybm-projects\\triplog\\triplog.webapi\\triplog\\models\\dtos\\tripphotodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E8A5FD-4AB0-4374-AA1E-EA9A20F4B861}|TripLog\\TripLog.WebAPI.csproj|solutionrelative:triplog\\models\\dtos\\tripphotodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E8A5FD-4AB0-4374-AA1E-EA9A20F4B861}|TripLog\\TripLog.WebAPI.csproj|c:\\ybm-projects\\triplog\\triplog.webapi\\triplog\\models\\dtos\\tripdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E8A5FD-4AB0-4374-AA1E-EA9A20F4B861}|TripLog\\TripLog.WebAPI.csproj|solutionrelative:triplog\\models\\dtos\\tripdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{9681d69d-90e5-4d1d-ad3c-0da0fcddf13c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\YBM-Projects\\TripLog\\TripLog.WebAPI\\TripLog\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "TripLog\\Models\\Tag.cs",
+              "ToolTip": "C:\\YBM-Projects\\TripLog\\TripLog.WebAPI\\TripLog\\Models\\Tag.cs",
+              "RelativeToolTip": "TripLog\\Models\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T18:18:11.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\YBM-Projects\\TripLog\\TripLog.WebAPI\\TripLog\\Program.cs",
+              "RelativeDocumentMoniker": "TripLog\\Program.cs",
+              "ToolTip": "C:\\YBM-Projects\\TripLog\\TripLog.WebAPI\\TripLog\\Program.cs",
+              "RelativeToolTip": "TripLog\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T18:17:29.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Trip.cs",
+              "DocumentMoniker": "C:\\YBM-Projects\\TripLog\\TripLog.WebAPI\\TripLog\\Models\\Trip.cs",
+              "RelativeDocumentMoniker": "TripLog\\Models\\Trip.cs",
+              "ToolTip": "C:\\YBM-Projects\\TripLog\\TripLog.WebAPI\\TripLog\\Models\\Trip.cs",
+              "RelativeToolTip": "TripLog\\Models\\Trip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T18:10:56.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TripRepository.cs",
+              "DocumentMoniker": "C:\\YBM-Projects\\TripLog\\TripLog.WebAPI\\TripLog\\Repository\\TripRepository.cs",
+              "RelativeDocumentMoniker": "TripLog\\Repository\\TripRepository.cs",
+              "ToolTip": "C:\\YBM-Projects\\TripLog\\TripLog.WebAPI\\TripLog\\Repository\\TripRepository.cs",
+              "RelativeToolTip": "TripLog\\Repository\\TripRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T18:10:13.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TripController.cs",
+              "DocumentMoniker": "C:\\YBM-Projects\\TripLog\\TripLog.WebAPI\\TripLog\\Controller\\TripController.cs",
+              "RelativeDocumentMoniker": "TripLog\\Controller\\TripController.cs",
+              "ToolTip": "C:\\YBM-Projects\\TripLog\\TripLog.WebAPI\\TripLog\\Controller\\TripController.cs",
+              "RelativeToolTip": "TripLog\\Controller\\TripController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:08:29.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TripDTO.cs",
+              "DocumentMoniker": "C:\\YBM-Projects\\TripLog\\TripLog.WebAPI\\TripLog\\Models\\DTOs\\TripDTO.cs",
+              "RelativeDocumentMoniker": "TripLog\\Models\\DTOs\\TripDTO.cs",
+              "ToolTip": "C:\\YBM-Projects\\TripLog\\TripLog.WebAPI\\TripLog\\Models\\DTOs\\TripDTO.cs",
+              "RelativeToolTip": "TripLog\\Models\\DTOs\\TripDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:08:06.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TripPhoto.cs",
+              "DocumentMoniker": "C:\\YBM-Projects\\TripLog\\TripLog.WebAPI\\TripLog\\Models\\TripPhoto.cs",
+              "RelativeDocumentMoniker": "TripLog\\Models\\TripPhoto.cs",
+              "ToolTip": "C:\\YBM-Projects\\TripLog\\TripLog.WebAPI\\TripLog\\Models\\TripPhoto.cs",
+              "RelativeToolTip": "TripLog\\Models\\TripPhoto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:06:37.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TripPhotoDTO.cs",
+              "DocumentMoniker": "C:\\YBM-Projects\\TripLog\\TripLog.WebAPI\\TripLog\\Models\\DTOs\\TripPhotoDTO.cs",
+              "RelativeDocumentMoniker": "TripLog\\Models\\DTOs\\TripPhotoDTO.cs",
+              "ToolTip": "C:\\YBM-Projects\\TripLog\\TripLog.WebAPI\\TripLog\\Models\\DTOs\\TripPhotoDTO.cs",
+              "RelativeToolTip": "TripLog\\Models\\DTOs\\TripPhotoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:06:20.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TripService.cs",
+              "DocumentMoniker": "C:\\YBM-Projects\\TripLog\\TripLog.WebAPI\\TripLog\\Services\\TripService.cs",
+              "RelativeDocumentMoniker": "TripLog\\Services\\TripService.cs",
+              "ToolTip": "C:\\YBM-Projects\\TripLog\\TripLog.WebAPI\\TripLog\\Services\\TripService.cs",
+              "RelativeToolTip": "TripLog\\Services\\TripService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:05:58.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
